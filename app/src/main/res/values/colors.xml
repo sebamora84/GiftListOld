@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pick">#dfdfdf</color>
+    <color name="pickPressed">#b8b8b8</color>
+    <color name="pickBorder">#C4CDE0</color>
+    <color name="newGift">#fa09ad</color>
+    <color name="newGiftPressed">#c20586</color>
+    <color name="pickShadow">#808080</color>
+    <color name="white">#ffffff</color>
+</resources>
